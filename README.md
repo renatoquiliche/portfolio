@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, R, Julia, Matlab, SQL, AWSº
 
 ## Education
 - M.S., Production Engineer	| Pontifical Catholic University of Rio de Janeiro (_August 2023_)	 			        		
