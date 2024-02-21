@@ -30,7 +30,7 @@
 - Collaborated cross-functionally with management teams on digitalization initiatives
 
 **Research assistance @ Pacifico University  (_March 2019 - August 2021_)**
-- Learned and applied data science, analytics, logistics and supply chain methodologies to various research cases
+- Applied data science, analytics, logistics and supply chain methodologies to various research cases
 - Aimed to improve and maintain business utility by at least 10%
 - Started training in Humanitarian Logistics: a branch of logistics focused on optimizing natural disaster and risk management
 - Applied data science, analytics, logistics and supply chain methodologies to research cases
