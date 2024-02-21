@@ -3,18 +3,53 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S., Production Engineer	| Pontifical Catholic University of Rio de Janeiro (_August 2023_)	 			        		
+- B.S., Economics | Pontifical Catholic University of Peru (_June 2019_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist Consultant @ United Nations Development Program (_March 2023 - Present_)**
+- Developed data analysis to support proposals for national disaster risk management plans in Brazil, contemplating the country's vast size and diversity
+- Collaboratively worked with institutions and ministries to develop a consulting product guiding government disaster risk management actions
+- Structured analysis of large data volumes and applied natural language processing for insights from massive participatory processes
+- Aimed to improve risk and disaster management of federal, state and municipal governments
+- Pursued quantitative goals to reduce household vulnerability, improve resource flows, reduce disaster deaths/casualties, and more
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Research associate @ Lab Humanitarian Assistance and Needs for Disasters (HANDs)  (_August 2021 - Present_)**
+- Developed consulting and research products at the laboratory, currently a top 1% researcher based on publication quality
+- Built trust in research and development products, leading to consulting contracts with the Brazilian government and international institutions
+- Elaborated consulting and research products as main activities at the lab
+- Ranked in top 1% of researchers based on publication quality metrics
+- Secured consulting contracts with Brazilian government and international institutions through strong research and development products
+
+**Developer @ Educational Group TRANSFORMA  (_March 2023 - December 2023_)**
+- Developed automated information collection system on Google Workspaces platform
+- Automated data reporting and provided AI tools to support student wellbeing evaluation
+- Worked collaboratively with management areas and participated in internal decisions on digitizing instruments
+- Built automated system for information collection using Google Workspaces
+- Provided AI tools and automated reporting to assist with student wellbeing assessments
+- Collaborated cross-functionally with management teams on digitalization initiatives
+
+**Research assistance @ Pacifico University  (_March 2019 - August 2021_)**
+- Learned and applied data science, analytics, logistics and supply chain methodologies to various research cases
+- Aimed to improve and maintain business utility by at least 10%
+- Started training in Humanitarian Logistics: a branch of logistics focused on optimizing natural disaster and risk management
+- Applied data science, analytics, logistics and supply chain methodologies to research cases
+- Pursued goals to improve and maintain business utility by minimum of 10%
+- Began education in Humanitarian Logistics: logistics subfield concentrated on disaster and risk management optimization
+
+**Data Sciencist Consultant @ Ministry of Health (PERU) (_April 2021 - July 2021_)**
+- Developed data analysis and insight visualization to formulate policies around Universal Health Insurance (SIS)
+- Found that SIS encouraged above-average medical care-seeking behavior among metropolitan Lima citizens
+- This evidence was crucial for Universal Health Insurance policymaking
+- Conducted data analysis and visualization to inform Universal Health Insurance (SIS) policies
+- Identified SIS increased medical care-seeking among average Lima metropolitan citizens
+- Evidence provided key insights for development of Universal Health Insurance policies
+
+**Economist Consultant @ International Development Bank (_April 2021 - July 2021_)**
+- Developed data analysis reports, statistical and econometric estimates for trade policy consulting on various Peruvian economic sectors
+- Worked on various economic sector-related topics including agriculture, fishing, manufacturing, mining
+- Triangulated and structured data to create bases for statistical analysis
+- Applied microeconometric techniques like computable general equilibrium models, input-output matrices, cross-sectional and panel econometrics
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
