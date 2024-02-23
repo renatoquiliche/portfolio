@@ -59,10 +59,10 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Empowering Business with effective insights
+<![Publication](https://www.mdpi.com/1424-8220/22/11/4240)>
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This dashboard is the final product of a work-case simulation for Tata Sons company: Empowering Business with effective insights. The data was triangulated from multiple sources, loaded into PostregSQL and transformed. The dashboard was developed in Power BI using Dataviz analytics including spatial data processing.
 
 ![CEO Dashboard](/assets/dashboard_tata.jpg)
 
