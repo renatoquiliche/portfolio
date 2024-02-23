@@ -81,13 +81,18 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ## Publications
 
 1. Quiliche, R., Santiago, B., Baião, F. A., & Leiras, A. (2023). A predictive assessment of households' risk against disasters caused by cold waves using machine learning. International Journal of Disaster Risk Reduction, 98, 104109.
-2. Quiliche, R., Rentería-Ramos, R., de Brito Junior, I., Luna, A., & Chong, M. (2021). Using Spatial Patterns of COVID-19 to Build a Framework for Economic Reactivation. Sustainability, 13(18), 10092.
-3. Renteria, R., Chong, M., de Brito Junior, I., Luna, A., & Quiliche, R. (2021). An entropy-based approach for disaster risk assessment and humanitarian logistics operations planning in Colombia. Journal of Humanitarian Logistics and Supply Chain Management, 11(3), 428-456.
-4. Jardim, R., Quiliche, R., Chong, M., Paredes, H., & Vivacqua, A. (2023). CuraZone: The tool to care for populated areas. Software Impacts, 18, 100581.
-5. Gonzalez-Feliu, J., Chong, M., Vargas-Florez, J., de Brito Jr, I., Osorio-Ramirez, C., Piatyszek, E., & Quiliche Altamirano, R. (2020). The maturity of humanitarian logistics against recurrent crises. Social Sciences, 9(6), 90.
-6. Renteria, R., Chong, M., de Brito Junior, I., Luna, A., & Quiliche, R. (2021). An entropy-based approach for disaster risk assessment and humanitarian logistics operations planning in Colombia. Journal of Humanitarian Logistics and Supply Chain Management 11(3), 428–456.
-7. de Brito Junior, I., Quiliche, R., Moyano, M., & Chong, M. (2022). Optimizing Human Resources: The Case of Venezuelan Migration in Lima, Peru. In Production and Operations Management: POMS Lima, Peru, December 2-4, 2021 (Virtual Edition) (pp. 323-333). Cham: Springer International Publishing.
-8. Beltrán, A., Sanborn, C., & Yamada Fukusaki, G. (2021). En búsqueda de un desarrollo integral: 20 ensayos en torno al Perú del Bicentenario.
-9. Álvarez, D., Quiliche, R., & Chong, M. (2019). Efectos de aplicar la gestión de ingresos en la industria aeronáutica. Memoria Investigaciones en Ingeniería, (17), 61-71.
+2. Mancilla Marquina, L. A., & Quiliche Altamirano, R. J. (2021). Determinantes de la diversificación de ingresos en los hogares rurales del Perú. [Bachelor's thesis, Pontificia Universidad Católica del Perú].
+3. Quiliche Altamirano, R. J. (2023). A supervised learning approach to predict household aid demand for recurrent clime-related disasters in Peru (Publication No. [insert number]) [Master's thesis, Pontifícia Universidade Católica do Rio de Janeiro].
+4. Quiliche, R., Rentería-Ramos, R., de Brito Junior, I., Luna, A., & Chong, M. (2021). Using Spatial Patterns of COVID-19 to Build a Framework for Economic Reactivation. Sustainability, 13(18), 10092.
+5. Challenges and strategies for Humanitarian Operations in Latin America and the Caribbean. 2022 MIT SCALE Latin America & the Caribbean Conference. Massachusetts Institute of Technology, June 2022. Cambridge, US.
+6. Renteria, R., Chong, M., de Brito Junior, I., Luna, A., & Quiliche, R. (2021). An entropy-based approach for disaster risk assessment and humanitarian logistics operations planning in Colombia. Journal of Humanitarian Logistics and Supply Chain Management, 11(3), 428-456.
+7. Jardim, R., Quiliche, R., Chong, M., Paredes, H., & Vivacqua, A. (2023). CuraZone: The tool to care for populated areas. Software Impacts, 18, 100581.
+8. Gonzalez-Feliu, J., Chong, M., Vargas-Florez, J., de Brito Jr, I., Osorio-Ramirez, C., Piatyszek, E., & Quiliche Altamirano, R. (2020). The maturity of humanitarian logistics against recurrent crises. Social Sciences, 9(6), 90.
+9. de Brito Junior, I., Quiliche, R., Moyano, M., & Chong, M. (2022). Optimizing Human Resources: The Case of Venezuelan Migration in Lima, Peru. In Production and Operations Management: POMS Lima, Peru, December 2-4, 2021 (Virtual Edition) (pp. 323-333). Cham: Springer International Publishing.
+10. Beltrán, A., Sanborn, C., & Yamada Fukusaki, G. (2021). En búsqueda de un desarrollo integral: 20 ensayos en torno al Perú del Bicentenario. Chong, M. & Quiliche, R. (2021): Digitalización para el desarrollo multidimensional en el Perú.
+11. Ruiz-Bravo, P. & Pizarro, A. (2021). Ensayos de Investigación y Perspectiva de Género. Rios, G. & Quiliche, R. (2021): Encuentro de estereotipos y preferencias laborales: discriminación femenina en trabajos STEM.
+12. Income diversification: livelihood and development alternatives for rural households. II Congreso SAEE. Sociedad Andina de Economía Ecológica. Abril 2019. Lima, Perú.
+13. Álvarez, D., Quiliche, R., & Chong, M. (2019). Efectos de aplicar la gestión de ingresos en la industria aeronáutica. Memoria Investigaciones en Ingeniería, (17), 61-71.
+14. Market articulation in highlands: exploratory analysis of family farming behavior using unsupervised machine learning methods. 2021 SEPIA XIX Puerto Maldonado. Seminario Permanente de Investigación Agraria, December, 2021
 
 - [Data Science Blog](https://medium.com/@shawhin)
