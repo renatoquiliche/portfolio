@@ -62,7 +62,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ### Empowering Business with effective insights
 
 <p align="justify">
-- This data visualization dashboard was developed as part of a simulated work project for Tata Sons to empower executive decision-making through visual data insights. The objective was to synthesize large amounts of complex data into a clear, focused set of visualizations tailored for the CEO audience.
+- This data visualization dashboard was developed as part of a simulated work project for Tata Sons to empower executive decision-making through visual data insights. The objective was to synthesize large amounts of complex data into a clear, focused set of visualizations tailored for the CEO audience. 
 - Careful heuristics were applied in the dashboard design to avoid visual fatigue and enable intuitive understanding of key metrics, trends and relationships. The data was sourced from multiple channels, integrated in PostgreSQL, and transformed for analysis. Advanced data visualization techniques were implemented in Power BI, including spatial data processing and predictive analytics.
 - The final dashboard provides Tata's leadership with an interactive overview of critical business drivers, enabling data-driven strategy and planning. It demonstrates strong technical skills in assembling, processing and analyzing large heterogeneous datasets, as well as creativity in visual presentation and ability to focus on key insights for the decision maker. This project highlights proficiencies in data science, analytics, and data visualization that translate into delivering high-impact business intelligence.
 
