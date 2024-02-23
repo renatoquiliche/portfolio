@@ -81,8 +81,8 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ## Publications
 
 1. Quiliche, R., Santiago, B., Baião, F. A., & Leiras, A. (2023). A predictive assessment of households' risk against disasters caused by cold waves using machine learning. International Journal of Disaster Risk Reduction, 98, 104109.
-2. Mancilla Marquina, L. A., & Quiliche Altamirano, R. J. (2021). Determinantes de la diversificación de ingresos en los hogares rurales del Perú. [Bachelor's thesis, Pontificia Universidad Católica del Perú].
-3. Quiliche Altamirano, R. J. (2023). A supervised learning approach to predict household aid demand for recurrent clime-related disasters in Peru (Publication No. [insert number]) [Master's thesis, Pontifícia Universidade Católica do Rio de Janeiro].
+2. Mancilla Marquina, L. A., & Quiliche Altamirano, R. J. (2021). Determinantes de la diversificación de ingresos en los hogares rurales del Perú. <b>[Bachelor's thesis, Pontificia Universidad Católica del Perú]</b>.
+3. Quiliche Altamirano, R. J. (2023). A supervised learning approach to predict household aid demand for recurrent clime-related disasters in Peru. <b>[Master's thesis, Pontifícia Universidade Católica do Rio de Janeiro]</b>.
 4. Quiliche, R., Rentería-Ramos, R., de Brito Junior, I., Luna, A., & Chong, M. (2021). Using Spatial Patterns of COVID-19 to Build a Framework for Economic Reactivation. Sustainability, 13(18), 10092.
 5. Challenges and strategies for Humanitarian Operations in Latin America and the Caribbean. 2022 MIT SCALE Latin America & the Caribbean Conference. Massachusetts Institute of Technology, June 2022. Cambridge, US.
 6. Renteria, R., Chong, M., de Brito Junior, I., Luna, A., & Quiliche, R. (2021). An entropy-based approach for disaster risk assessment and humanitarian logistics operations planning in Colombia. Journal of Humanitarian Logistics and Supply Chain Management, 11(3), 428-456.
