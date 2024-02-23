@@ -60,9 +60,11 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
 ### Empowering Business with effective insights
-<![Publication](https://www.mdpi.com/1424-8220/22/11/4240)>
 
-This dashboard is the final product of a work-case simulation for Tata Sons company: Empowering Business with effective insights. The data was triangulated from multiple sources, loaded into PostregSQL and transformed. The dashboard was developed in Power BI using Dataviz analytics including spatial data processing.
+
+This data visualization dashboard was developed as part of a simulated work project for Tata Sons to empower executive decision-making through visual data insights. The objective was to synthesize large amounts of complex data into a clear, focused set of visualizations tailored for the CEO audience.
+Careful heuristics were applied in the dashboard design to avoid visual fatigue and enable intuitive understanding of key metrics, trends and relationships. The data was sourced from multiple channels, integrated in PostgreSQL, and transformed for analysis. Advanced data visualization techniques were implemented in Power BI, including spatial data processing and predictive analytics.
+The final dashboard provides Tata's leadership with an interactive overview of critical business drivers, enabling data-driven strategy and planning. It demonstrates strong technical skills in assembling, processing and analyzing large heterogeneous datasets, as well as creativity in visual presentation and ability to focus on key insights for the decision maker. This project highlights proficiencies in data science, analytics, and data visualization that translate into delivering high-impact business intelligence.
 
 ![CEO Dashboard](/assets/dashboard_tata.jpg)
 
